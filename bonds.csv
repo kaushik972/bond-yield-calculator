@@ -1,0 +1,4 @@
+name,face,coupon_rate,price,years,coupons_per_year
+Par bond,1000,0.05,1000,5,1
+Discount bond,1000,0.04,920,5,1
+Premium bond,1000,0.06,1080,5,2
